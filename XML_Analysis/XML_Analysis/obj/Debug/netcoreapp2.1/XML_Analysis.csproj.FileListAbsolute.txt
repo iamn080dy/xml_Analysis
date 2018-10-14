@@ -1,0 +1,11 @@
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\bin\Debug\netcoreapp2.1\XML_Analysis.deps.json
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\bin\Debug\netcoreapp2.1\XML_Analysis.runtimeconfig.json
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\bin\Debug\netcoreapp2.1\XML_Analysis.runtimeconfig.dev.json
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\bin\Debug\netcoreapp2.1\XML_Analysis.dll
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\bin\Debug\netcoreapp2.1\XML_Analysis.pdb
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.csprojAssemblyReference.cache
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.csproj.CoreCompileInputs.cache
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.AssemblyInfoInputs.cache
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.AssemblyInfo.cs
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.dll
+D:\軟體工程\C#\XML_Analysis\XML_Analysis\obj\Debug\netcoreapp2.1\XML_Analysis.pdb
